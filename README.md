@@ -1,3 +1,3 @@
 # mlops-dev
 
-> A sandpit enironment to test mlops sytems
+>A sandpit environment to test MLOps systems.
